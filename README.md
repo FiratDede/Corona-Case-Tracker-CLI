@@ -5,4 +5,4 @@ I developed this program by using BeautifulSoup and requests modules in python. 
 The code above prints all valid arguments which can be used together for running this program in the terminal. The code above prints to the terminal: </br>
 <img src="corona_case_tracker.PNG">
 
-Note= If you run this with program search argument, the searching happens  in case insensitive (e.g China and ChINa are treated as the same).
+Note= If you run this with program search argument, the searching happens  in case insensitive (e.g China and chINa are treated as the same).
