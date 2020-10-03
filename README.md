@@ -3,5 +3,5 @@ I developed this program by using BeautifulSoup and requests modules in python. 
 >\>py corona_case_tracker.py help </br>
 
 The code above prints all valid arguments which can be used together for running this program in the terminal. The code above prints to the terminal: </br>
-<img corona_case_tracker.PNG>
+<img src="corona_case_tracker.PNG">
 
