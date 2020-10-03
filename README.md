@@ -1,2 +1,3 @@
 # Corona-Case-Tracker-CLI
-This program shows  all corona cases numbers in the countries 
+I developed this program by using BeautifulSoup and requests modules in python. As a result for running this program you must load these modules. This program shows  all corona cases numbers in the countries. This program is executed from terminal. You can see all invalid arguments by typing : </br>
+>py corona_case_tracker.py help
